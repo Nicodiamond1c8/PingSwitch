@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://ibb.co/iA0Q0V" alt="PingSwitch"/></br>
-</p>
+![](pingswitch.png)
 
 # PingSwitch
 
