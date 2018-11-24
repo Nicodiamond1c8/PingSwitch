@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/E9krgUI" alt="PingSwitch"/></br>
+  <img src="https://ibb.co/iA0Q0V" alt="PingSwitch"/></br>
 </p>
 
 # PingSwitch
