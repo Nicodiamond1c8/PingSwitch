@@ -1,9 +1,9 @@
 #!/bin/bash
-#Simple ping-reply switch by RDSploit
+#Simple ping-reply switch by RDSploit-Beasty
 HEIGHT=15
 WIDTH=40
 CHOICE_HEIGHT=4
-BACKTITLE="RDSploit Ping-Switch"
+BACKTITLE="Ping-Switch"
 TITLE="Ping-Switch"
 MENU="Choose one of the following options:"
 
