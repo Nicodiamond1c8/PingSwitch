@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://imgur.com/E9krgUI" alt="PingSwitch"/></br>
+</p>
+
 # PingSwitch
 
 Use PingSwitch to on/off your linux (debian) server ping replies.
