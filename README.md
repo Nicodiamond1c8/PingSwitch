@@ -8,13 +8,13 @@ Use PingSwitch to on/off your linux (debian) server ping replies.
 
 PingSwitch requires **dialog** package to run:
 
-```bash
+```sh
 sudo apt-get install dialog
 ```
 
 ## Usage
 
-```bash
+```sh
 $ chmod +x pingswitch.sh
 $ ./pingswitch
 ```
